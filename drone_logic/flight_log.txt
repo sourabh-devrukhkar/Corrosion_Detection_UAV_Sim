@@ -1,0 +1,22 @@
+Time		Image			Prediction		Action
+------------------------------------------------------------
+11:58:44	deleece-cook-gVyk1w_F8SM-unsplash.jpg	moderate    	Hover & Capture
+11:58:46	derek-lee--qWW-jp-AD8-unsplash.jpg	no_corrosion	Move Forward
+11:58:47	donggeun-lee-BpWvu_KLJxo-unsplash.jpg	no_corrosion	Move Forward
+11:58:49	ej-strat-VjWi56AWQ9k-unsplash.jpg	no_corrosion	Move Forward
+11:58:50	gilberto-olimpio--Ybz25tGaUo-unsplash.jpg	mild        	Log & Continue
+11:58:54	haberdoedas-gYszpHQWSWY-unsplash.jpg	mild        	Log & Continue
+11:58:55	image1.jpeg         	severe      	Stop & Alert
+11:58:56	image14.jpeg        	severe      	Stop & Alert
+11:58:57	image14_1.jpeg      	severe      	Stop & Alert
+11:58:58	image17_1.jpeg      	severe      	Stop & Alert
+11:58:59	image18.jpeg        	severe      	Stop & Alert
+11:59:00	image18_1.jpeg      	severe      	Stop & Alert
+11:59:01	image19.jpeg        	severe      	Stop & Alert
+11:59:02	image19_1.jpeg      	severe      	Stop & Alert
+11:59:04	independence-creations-xi54_SmOjlU-unsplash.jpg	mild        	Log & Continue
+11:59:05	karen-chew-dHlSCIyWNs0-unsplash.jpg	mild        	Log & Continue
+11:59:07	markus-spiske--PS2aw4Oj_E-unsplash.jpg	mild        	Log & Continue
+11:59:08	markus-spiske-R4Ls_nFHLsg-unsplash.jpg	mild        	Log & Continue
+11:59:09	markus-spiske-b7A3KrSEY5c-unsplash.jpg	mild        	Log & Continue
+11:59:11	amr-taha-3SeGv-8-8z4-unsplash (1).jpg	moderate    	Hover & Capture
